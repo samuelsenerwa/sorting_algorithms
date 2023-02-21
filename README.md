@@ -1,4 +1,8 @@
 ## Sorting Algorithms
+<br>
+
+![willy-wonka](https://user-images.githubusercontent.com/66512735/220328060-99b9f623-efba-4c97-aa13-1a1f1b240992.png)
+
 
 
 ## Header Files :file_folder:
